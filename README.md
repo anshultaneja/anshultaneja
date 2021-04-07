@@ -12,7 +12,6 @@
 
 [<img align="left" alt="anshul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anshul-1493a3145)
 [<img align="left" alt="anshul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AnshulTaneja10)
-[<img align="left" alt="anshul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anshullllll._/?igshid=c8ntcez21m7j)
 [<img align="left" alt="anshul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/anshul.taneja.5621/?viewas=)
 <br>
 
