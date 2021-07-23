@@ -16,7 +16,7 @@
  <a href="mailTo:tanejaanshul26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Anshul" height="30" width="40" /></a>
 
 #### 🚀 My Coding Stats -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=dark)](https://github.com/Anshika15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=dark)](https://github.com/anshultaneja/github-readme-stats)
 <br>
 ![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=anshultaneja&show_icons=true&count_private=true&hide=contribs,prs,issues&theme=radical)
 
