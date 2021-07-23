@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Exploring Python and all it's functionalities.
 - 🌱 I’m currently learning Data Sciences and Google Cloud Platform ☁.
 - 👯 I’m looking to collaborate on Hackathons or maybe a big project!
-- 🤔 I’m looking for help with improving my understanding of Machine Learning Algorithms!
 - 📫 How to reach me📧: tanejaanshul26@gmail.com
 - 😄 Hobbies: Music 🎵, Podcasts 🎙
 
