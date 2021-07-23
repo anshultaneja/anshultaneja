@@ -10,12 +10,10 @@
 - 📫 How to reach me📧: tanejaanshul26@gmail.com
 - 😄 Hobbies: Music 🎵, Podcasts 🎙
 
-### ⚡ Connect with me
-
-[<img align="left" alt="anshul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anshul-1493a3145)
-[<img align="left" alt="anshul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AnshulTaneja10)
-[<img align="left" alt="anshul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/anshul.taneja.5621/?viewas=)
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anshul-1493a3145/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Anshul" height="30" width="40" /></a>
+ <a href="mailTo:tanejaanshul26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Anshul" height="30" width="40" /></a>
 
 #### 🚀 My Coding Stats -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=dark)](https://github.com/Anshika15/github-readme-stats)
