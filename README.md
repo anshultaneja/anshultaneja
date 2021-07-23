@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshultaneja&label=Profile%20views&color=0e75b6&style=flat" alt="anshultaneja" /> </p>
 
 - 🔭 I’m currently working on Exploring Python and all it's functionalities.
 - 🌱 I’m currently learning Data Sciences and Google Cloud Platform ☁.
