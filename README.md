@@ -5,8 +5,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshultaneja&theme=onedark&title=Stars,Followers,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Exploring Python and all it's functionalities.
-- 🌱 I’m currently learning Data Sciences and Google Cloud Platform ☁.
-- 👯 I’m looking to collaborate on Hackathons or maybe a big project!
 - 📫 How to reach me📧: tanejaanshul26@gmail.com
 - 😄 Hobbies: Music 🎵, Podcasts 🎙
 
