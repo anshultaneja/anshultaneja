@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshultaneja&label=Profile%20views&color=0e75b6&style=flat" alt="anshultaneja" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshultaneja&theme=onedark&title=Stars,Followers,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on Exploring Python and all it's functionalities.
 - 📫 How to reach me📧: tanejaanshul26@gmail.com
 - 😄 Hobbies: Music 🎵, Podcasts 🎙
