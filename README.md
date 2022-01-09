@@ -1,15 +1,32 @@
-<h1 align="center">Hi 👋, I'm Anshul</h1>
+## Hi there, I'm Anshul 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshultaneja&label=Profile%20views&color=0e75b6&style=flat" alt="anshultaneja" /> </p>
+<a href="https://twitter.com/AnshulTaneja10">
+  <img align="left" alt="Anshul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anshul-taneja-1493a3145/">
+  <img align="left" alt="Anshul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/anshultaneja">
+  <img align="left" alt="Anshul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://github.com/anshultaneja">
+  <img align="left" alt="Anshul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<!-- <a href="https://www.instagram.com/">
+  <img align="left" alt="Anshul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a> -->
+<a href="https://www.facebook.com/anshul.taneja.5621/">
+  <img align="left" alt="Anshul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<!-- <a href="https://medium.com/@rahulgoyal911/">
+  <img align="left" alt="Rahul's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a> -->
+<br/>
+<br/>
 
-- 🔭 I’m currently working on Exploring Python and all it's functionalities.
-- 📫 How to reach me📧: tanejaanshul26@gmail.com
+- 💻 I'm currently working at [industrybuying.com](https://industrybuying.com) as a Full Stack Engineer.  
+- 📫 How to reach me: [LinkedIn - @Anshul](https://www.linkedin.com/in/anshul-taneja-1493a3145/)
 - 😄 Hobbies: Music 🎵, Podcasts 🎙
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anshul-1493a3145/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Anshul" height="30" width="40" /></a>
- <a href="mailTo:tanejaanshul26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Anshul" height="30" width="40" /></a>
-
 #### 🚀 My Coding Stats -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=dark)](https://github.com/anshultaneja/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=light)](https://github.com/anshultaneja/github-readme-stats)
