@@ -13,6 +13,3 @@
 
 #### 🚀 My Coding Stats -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=dark)](https://github.com/anshultaneja/github-readme-stats)
-<br>
-![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=anshultaneja&show_icons=true&count_private=true&hide=contribs,prs,issues&theme=radical)
-
