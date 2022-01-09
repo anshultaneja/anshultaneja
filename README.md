@@ -26,7 +26,7 @@
 
 - 💻 I'm currently working at [industrybuying.com](https://industrybuying.com) as a Full Stack Engineer.  
 - 📫 How to reach me: [LinkedIn - @Anshul](https://www.linkedin.com/in/anshul-taneja-1493a3145/)
-- 😄 Hobbies: Music 🎵, Podcasts 🎙
+- 😄 Hobbies: 🎵 Music,🎙Podcasts
 
 #### 🚀 My Coding Stats -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=light)](https://github.com/anshultaneja/github-readme-stats)
