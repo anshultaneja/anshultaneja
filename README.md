@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-- 💻 I'm currently working at [industrybuying.com](https://industrybuying.com) as a Full Stack Engineer.  
+- 💻 I'm BE graduate with experience in Software Development and exploring data domain.  
 - 📫 How to reach me: [LinkedIn - @Anshul](https://www.linkedin.com/in/anshul-taneja-1493a3145/)
 - 😄 Hobbies: 🎵 Music,🎙Podcasts
 
