@@ -18,8 +18,8 @@
 <a href="https://www.facebook.com/anshul.taneja.5621/">
   <img align="left" alt="Anshul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<!-- <a href="https://medium.com/@rahulgoyal911/">
-  <img align="left" alt="Rahul's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<!-- <a href="">
+  <img align="left" alt="Anshul's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
 <br/>
 <br/>
@@ -28,5 +28,5 @@
 - 📫 How to reach me: [LinkedIn - @Anshul](https://www.linkedin.com/in/anshul-taneja-1493a3145/)
 - 😄 Hobbies: 🎵 Music,🎙Podcasts
 
-#### 🚀 My Coding Stats -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=light)](https://github.com/anshultaneja/github-readme-stats)
+<!-- #### 🚀 My Coding Stats -
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultaneja&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=light)](https://github.com/anshultaneja/github-readme-stats) -->
