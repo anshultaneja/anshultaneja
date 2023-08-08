@@ -1,4 +1,4 @@
-## Hi there, I'm Anshul 👋
+<h2 align="center">Hi, I'm Anshul - an <b>Engineer</b> ❤</h2> <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshultaneja&label=Profile%20views&color=0e75b6&style=flat" alt="Anshul" /> </p>
 
 <a href="https://twitter.com/AnshulTaneja10">
   <img align="left" alt="Anshul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
