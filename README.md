@@ -1,40 +1,14 @@
-# Hi, I'm Anshul 👋 <img align="right" src="https://komarev.com/ghpvc/?username=anshultaneja&label=Profile%20views&color=0e75b6&style=flat" alt="Anshul" /> 
-### Analytics Engineer | AWS & Power BI Specialist 
+<h2 align="center">Hi, I'm Anshul - an <b>Analytics Engineer</b> by Profession ❤</h2> 
+<i><h4 align="center">  Microsoft Certified: Fabric Analytics Engineer Associate </h4></i>
 
-I am a results-oriented Data Professional with **4 years of experience**  architecting scalable data solutions within the **AWS ecosystem**. I specialize in the "translation layer" of data—transforming complex raw data into high-impact business intelligence using **Advanced SQL** and **Power BI (DAX/M)**.
 
-With a background in Software Engineering, I bring engineering discipline to the analytics lifecycle, ensuring data integrity, optimized query performance, and automated end-to-end pipelines.
+<h3 align="center"> 📫 Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/26-anshul/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anshul" /></a>
+<a href="mailto:business.anshul26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Anshul" /></a>
+</p>
 
----
+<!--* **LinkedIn:** [linkedin.com/in/26-anshul](https://www.linkedin.com/in/26-anshul) 
+* **Email:** [business.anshul26@gmail.com](mailto:business.anshul26@gmail.com)  -->
 
-### 🛠️ Technical Stack
-
-* **Data Modeling:** Conceptual, Logical, and Physical Modeling (Star/Snowflake Schemas).
-* **Languages & Frameworks:** SQL (Advanced), Python, DAX, Power Query (M), Django ORM.
-* **Cloud Infrastructure:** AWS (Athena, S3), Google Cloud Platform (Core Services).
-* **Visualization:** Power BI (Dashboarding & Performance Tuning).
-* **Engineering:** RESTful APIs, Unit/Integration Testing, Performance Optimization.
-
----
-
-### 📈 Professional Highlights
-
-* **Performance Engineering:** Reduced dashboard latency by **50-70%** through advanced partitioning strategies in AWS Athena.
-* **Operational Efficiency:** Automated end-to-end reporting pipelines, cutting manual reporting efforts by **60%**.
-* **Business Impact:** Delivered integrated Power BI solutions for Supply Chain and Marketing domains, resulting in a **30% reduction in reporting time**.
-* **Scalable Architecture:** Designed and implemented robust database models and migrations to ensure application stability and scalability.
-
----
-
-### 🎓 Certifications
-
-* **Google Cloud:** Essential Infrastructure & Reliable Design.
-* **Data Science:** Python for Data Science (Introduction).
-* **AI/ML:** Deep Learning Bootcamp & Bot Performance Management.
-
----
-
-### 📫 Connect with Me
-
-* **LinkedIn:** [linkedin.com/in/26-anshul](https://www.linkedin.com/in/26-anshul) 
-* **Email:** [business.anshul26@gmail.com](mailto:business.anshul26@gmail.com) 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshultaneja&label=Profile%20views&color=0e75b6&style=flat" alt="Anshul" /> </p>
