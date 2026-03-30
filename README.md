@@ -1,5 +1,5 @@
-# Hi, I'm Anshul 👋 
-### Analytics Engineer | AWS & Power BI Specialist
+# Hi, I'm Anshul 👋 <img align="right" src="https://komarev.com/ghpvc/?username=anshultaneja&label=Profile%20views&color=0e75b6&style=flat" alt="Anshul" /> 
+### Analytics Engineer | AWS & Power BI Specialist 
 
 I am a results-oriented Data Professional with **4 years of experience**  architecting scalable data solutions within the **AWS ecosystem**. I specialize in the "translation layer" of data—transforming complex raw data into high-impact business intelligence using **Advanced SQL** and **Power BI (DAX/M)**.
 
